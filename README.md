@@ -2,7 +2,7 @@ EPUB3 Package
 =============
 
 EPUB3 package for ESSE-EP tutorials as well as for those who just need a quick basic EPUB3 package.
-This package contains the standard directories
+This package contains the standard directories and files.
   - EPUB
     - package.opf
     - XHTML
